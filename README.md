@@ -34,5 +34,5 @@ El repositorio está organizado con archivos numerados de forma cronológica par
 
 *   🗄️ [Prácticas en MySQL](https://github.com/jimenezcampuzanojo11-svg/curso-mysql-practicas):
 *   Visita mi repositorio de MySQL para ver cómo gestiono y estructuro bases de datos relacionales.
-*   ☕ [Java Básico](TU_ENLACE_DE_JAVA_BASICO):
+*   ☕ [Java Básico](https://github.com/jimenezcampuzanojo11-svg/fundamentos-y-logica-java):
 *   Explora mis primeros programas y algoritmos en Java antes de pasar a las interfaces gráficas.
