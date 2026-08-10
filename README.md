@@ -30,3 +30,9 @@ El repositorio está organizado con archivos numerados de forma cronológica par
 *   **Biblioteca Gráfica:** Java Swing / AWT (Diseño construido 100% mediante código)
 *   **IDE de Desarrollo:** NetBeans
 
+## 🔗 Proyectos Relacionados
+
+*   🗄️ [Prácticas en MySQL](TU_ENLACE_DE_GITHUB_DE_MYSQL):
+*   Visita mi repositorio de MySQL para ver cómo gestiono y estructuro bases de datos relacionales.
+*   ☕ [Java Básico](TU_ENLACE_DE_JAVA_BASICO):
+*   Explora mis primeros programas y algoritmos en Java antes de pasar a las interfaces gráficas.
