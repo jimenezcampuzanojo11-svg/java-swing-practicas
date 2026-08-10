@@ -33,7 +33,7 @@ El repositorio está organizado con archivos numerados de forma cronológica par
 ## 🔗 Proyectos Relacionados
 
 *   🗄️ [Prácticas en MySQL](https://github.com/jimenezcampuzanojo11-svg/curso-mysql-practicas):
-*   Visita mi repositorio de MySQL para ver cómo gestiono y estructuro bases de datos relacionales.
+     Visita mi repositorio de MySQL para ver cómo gestiono y estructuro bases de datos relacionales.
 *   ☕ [Java Básico](https://github.com/jimenezcampuzanojo11-svg/fundamentos-y-logica-java):
-*   Explora mis primeros programas y algoritmos en Java antes de pasar a las interfaces gráficas.
+    Explora mis primeros programas y algoritmos en Java antes de pasar a las interfaces gráficas.
 *   🏢 [Proyecto Final: Sistema Coca-Cola](https://github.com/jimenezcampuzanojo11-svg/sistema-coca-cola):                      Aplicación de escritorio completa para el control vacacional de empleados basada en el curso de Enertos.
